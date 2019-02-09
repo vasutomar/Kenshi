@@ -1,4 +1,4 @@
-# note_scout
+# Kenshi
 
 A new Flutter application.
 
